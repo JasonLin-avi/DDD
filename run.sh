@@ -1,0 +1,1 @@
+sudo docker run -d --name typescript -p 8081:8081 nodeimage
